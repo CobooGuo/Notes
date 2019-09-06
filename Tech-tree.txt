@@ -1,0 +1,19 @@
+1.My hardware tech tree
+|
+|
+-->8051   |--> M4 --> M3 --> M0+ -->ARM7 -->ARM9 -->A8 | -->X86
+|->stm8   |          (ARM)                             | -->X86_64
+|->ateml32|--> MSP430 --> MSP432 --> TIM32-->...       | -->OpenRISC -->OpenMIPS
+
+2.My software tech tree
+|
+|
+HTML-->CCS-->ASP-->.NET--
+-->PHP-->MySQL
+-->Python-->perl-->shell
+LAMP-->C++-->C-->ASM
+
+3.System
+Windows-->Linux-->Unix
+freeRTOS-->TI-RTOS-->uCOS
+RT-Thread
