@@ -17,3 +17,26 @@ LAMP-->C++-->C-->ASM
 Windows-->Linux-->Unix
 freeRTOS-->TI-RTOS-->uCOS
 RT-Thread
+
+
+system                                    Platform
+  Unix/Linux/Minx                         x86_amd64
+  BSD                                     aarch32-aarch64
+  WINDOW/ReatOS                           MIPS/Alpha
+  
+  Complier                                GUI
+    GCC                                   gtk/gnome
+    LVMM                                  QT/kde
+    JAVA                                  WIN/GDI/MFC/Draw
+    PYTHON                                OPENGL/OPENAL/DIRECTX
+    
+PRODUCT
+Printer
+Sensor
+Display
+Server
+Game
+education
+machine
+auto
+    
